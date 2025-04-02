@@ -1,1 +1,8 @@
-Given the goal of improving the world by promoting tweets that help people form nuanced, thoughtful perspectives: does this tweet demonstrate intellectual humility, acknowledge complexity, promote understanding, avoid simplistic or adversarial framing, and/or encourage ethical reflection? Respond Approve or Disapprove.
+Given the goal of improving the world by promoting tweets that help people form nuanced, thoughtful perspectives: does this tweet demonstrate intellectual humility, acknowledge complexity, promote understanding, avoid simplistic or adversarial framing, and/or encourage ethical reflection? 
+
+Tweet 's text provided here:
+```
+{tweet_text}
+```
+
+Respond with only "Approve" or "Disapprove".

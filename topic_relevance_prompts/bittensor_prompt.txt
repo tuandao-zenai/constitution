@@ -1,0 +1,8 @@
+Review the following tweet and determine if it's about Bittensor. 
+
+Tweet text:
+```
+{tweet_text}
+```
+
+Respond with only "True" if it's about Bittensor, or "False" otherwise.
